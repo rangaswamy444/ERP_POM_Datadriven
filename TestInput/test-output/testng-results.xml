@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Starting in Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Starting in Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Starting in Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Starting in Chrome Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73186" started-at="2021-02-13T19:17:54Z" finished-at="2021-02-13T19:19:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73186" started-at="2021-02-13T19:17:54Z" finished-at="2021-02-13T19:19:08Z">
+      <class name="com.ERP.DriverFactory.AppTest">
+        <test-method status="PASS" signature="kickStart()[pri:0, instance:com.ERP.DriverFactory.AppTest@39c0f4a]" name="kickStart" duration-ms="73119" started-at="2021-02-13T19:17:54Z" finished-at="2021-02-13T19:19:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting in Chrome Browser]]>
+            </line>
+            <line>
+              <![CDATA[Starting in Chrome Browser]]>
+            </line>
+            <line>
+              <![CDATA[Starting in Chrome Browser]]>
+            </line>
+            <line>
+              <![CDATA[Starting in Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- com.ERP.DriverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

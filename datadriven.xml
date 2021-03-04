@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="datadrivenSuite">
+  <test name="Test">
+    <classes>
+      <class name="com.ERP.TestCases.LoginPageTest"/>
+      <class name="com.ERP.TestCases.DashBoardTest"/>
+      <class name="com.ERP.TestCases.AddSupplierPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- datadrivenSuite -->

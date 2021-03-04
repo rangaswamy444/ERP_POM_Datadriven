@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39605" started-at="2021-03-04T11:53:00Z" finished-at="2021-03-04T11:53:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39605" started-at="2021-03-04T11:53:00Z" finished-at="2021-03-04T11:53:40Z">
+      <class name="com.ERP.TestCases.AddCustomerPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="setup" is-config="true" duration-ms="9302" started-at="2021-03-04T11:53:01Z" finished-at="2021-03-04T11:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="addCustomerTest" duration-ms="4056" started-at="2021-03-04T11:53:10Z" data-provider="getCustomerTestData" finished-at="2021-03-04T11:53:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qedge1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hyderabad]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hyderabd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qedge1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[andsjvnkjd@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[8765432.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Need supply]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="153" started-at="2021-03-04T11:53:14Z" finished-at="2021-03-04T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="setup" is-config="true" duration-ms="8298" started-at="2021-03-04T11:53:14Z" finished-at="2021-03-04T11:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="addCustomerTest" duration-ms="3988" started-at="2021-03-04T11:53:23Z" data-provider="getCustomerTestData" finished-at="2021-03-04T11:53:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qedge2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hyderabad]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hyderabd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qedge2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[avbfgh@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[8765433.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Need supply]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="153" started-at="2021-03-04T11:53:27Z" finished-at="2021-03-04T11:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="setup" is-config="true" duration-ms="8740" started-at="2021-03-04T11:53:27Z" finished-at="2021-03-04T11:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="addCustomerTest" duration-ms="4003" started-at="2021-03-04T11:53:36Z" data-provider="getCustomerTestData" finished-at="2021-03-04T11:53:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qedge3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hyderabad]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hyderabd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qedge3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[efcnfvm@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[8765434.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Need supply]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ERP.TestCases.AddCustomerPageTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="153" started-at="2021-03-04T11:53:40Z" finished-at="2021-03-04T11:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ERP.TestCases.AddCustomerPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
